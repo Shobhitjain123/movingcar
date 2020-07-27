@@ -22,7 +22,7 @@
     right: 0;
     z-index: 1;
     background-repeat: repeat-x;
-    animation: highway 5s linear infinite;
+    animation: highway 2s linear infinite;
 }
 @keyframes highway{
     
@@ -42,7 +42,7 @@
     display: block;
     z-index: 1;
     background-repeat: repeat-x;
-    animation: city 20s linear infinite;
+    animation: city 15s linear infinite;
     
 }
 @keyframes city
@@ -54,7 +54,7 @@
     }
 }
 .car{
-     width:370px;
+     width:27%;
      left:50%;
      bottom: 100px;
      position: absolute;
