@@ -12,7 +12,7 @@
     overflow-x: hidden;
 }
 .highway{
-    height:33vh;
+    height:200px;
     width:800%;
     display: block;
     background-image: url(road.jpg);
@@ -32,7 +32,7 @@
     
 }
 .city{
-    height: 40vh;
+    height: 250px;
     width: 500%;
     background-image: url(city.png);
     position: absolute;
