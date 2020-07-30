@@ -42,7 +42,7 @@
     display: block;
     z-index: 1;
     background-repeat: repeat-x;
-    animation: city 15s linear infinite;
+    animation: city 20s linear infinite;
     
 }
 @keyframes city
@@ -100,7 +100,7 @@
 }
 .back-wheel{
     
-    left: -269px;
+    left: -270px;
     position: absolute;   
 }
 .front-wheel{
